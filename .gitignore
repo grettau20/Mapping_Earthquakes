@@ -1,5 +1,6 @@
 .DS_Store
-config.js
+Mapping_Single_Points/JS/config.js
+Simple_Map/JS/config.js
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
